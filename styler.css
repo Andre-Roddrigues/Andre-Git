@@ -26,7 +26,8 @@ body {
 }
 
 .card:hover {
-    transform: scale(1.1);
+    transform: scale(1.5) rotate(360deg);
     background-color: #c2c2c2;
-    border-radius: 50px;
+    border-radius: 150px;
+    transition: 0.5s ease-in-out;
 }
