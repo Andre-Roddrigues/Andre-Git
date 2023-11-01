@@ -29,5 +29,5 @@ body {
     transform: scale(1.5) rotate(360deg);
     background-color: #c2c2c2;
     border-radius: 150px;
-    transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in;
 }
